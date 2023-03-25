@@ -1,4 +1,4 @@
-Hi 👋 My name is Alper Karagözoğlu
+Hi, My name is Alper Karagözoğlu
 =========================================================================================================================================
 
 Computer And Mobile Developer
@@ -32,4 +32,4 @@ I have been developing myself in the software field since high school. When I fi
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/grigroviska" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/alper_karagozoglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alperkaragozoglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/grigroviska" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://alperkaragozoglu.carrd.co" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://alperkaragozoglu.carrd.co" target="_blank" rel="noreferrer"><img src="https://cdn1.iconfinder.com/data/icons/uiux-001-solid/32/About-32.png" width="32" height="32" /></a></p>
