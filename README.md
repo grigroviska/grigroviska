@@ -6,7 +6,7 @@ Computer And Mobile Developer
 
 I have been developing myself in the software field since high school. When I first started, I started with web and windows applications, and now I am progressing in the mobile field. I actively write applications in Java and Kotlin.
 
-* 🌍  I'm based in İstanbul
+* 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [karagozoglualper@protonmail.com](mailto:karagozoglualper@protonmail.com)
 * 🧠  I'm learning Kotlin and Java
 
@@ -32,4 +32,4 @@ I have been developing myself in the software field since high school. When I fi
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/grigroviska" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/alper_karagozoglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alperkaragozoglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/grigroviska" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://alperkaragozoglu.carrd.co" target="_blank" rel="noreferrer"><img src="https://cdn1.iconfinder.com/data/icons/uiux-001-solid/32/About-32.png" width="32" height="32" /></a></p>
+<a href="https://alperkaragozoglu.carrd.co" target="_blank" rel="noreferrer"><img src="https://p7.hiclipart.com/preview/40/53/81/computer-icons-globe-clip-art-globe-thumbnail.jpg" width="32" height="32" /></a></p>
