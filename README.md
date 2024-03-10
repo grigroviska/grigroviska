@@ -8,7 +8,7 @@ I have been developing myself in the software field since high school. When I fi
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [karagozoglualper@protonmail.com](mailto:karagozoglualper@protonmail.com)
-* 🧠  I'm learning Kotlin and Java
+* 🧠  I'm learning Kotlin and Flutter
 
 ### Skills
 
